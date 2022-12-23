@@ -1,0 +1,42 @@
+Dir "/"; 
+File {name = "b.txt"; size = 14848514};
+File {name = "c.dat"; size = 8504156}; 
+Dir "a";
+File {name = "f"; size = 29116}; 
+File {name = "g"; size = 2557};
+File {name = "h.lst"; size = 62596}; 
+Dir "e"; 
+File {name = "i"; size = 584};
+Dir ".."; 
+Dir ".."; 
+Dir "d"; 
+File {name = "j"; size = 4060174};
+File {name = "d.log"; size = 8033020};
+File {name = "d.ext"; size = 5626152}; 
+File {name = "k"; size = 7214296}
+
+new hash for root
+  add file b to count for root
+  add file c to count for root
+
+new hash for a
+  add file f to count for a, and root
+  add file g to count for a, and root
+  add file h to count for a, and root
+
+new hash for e
+  add file i to count for e, a, and root
+
+double dot, pop e from the add stack
+double dot, pop a from the add stack
+
+new hash for d
+  add file j to count for d and root
+  add file dlog to count for d and root
+  add file dext to count for d and root
+  add file k to count for d and root
+  
+function needs the cmd list, a stack to keep track of what were adding to
+  for directory totals, and a hashtable with strings as keys and integer totals 
+  as values
+

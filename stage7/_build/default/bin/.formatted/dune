@@ -1,4 +1,0 @@
-(executable
- (public_name stage7)
- (name main)
- (libraries core))

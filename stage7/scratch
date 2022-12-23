@@ -1,0 +1,16 @@
+Dir "/"; 
+File {name = "b.txt"; size = 14848514};
+File {name = "c.dat"; size = 8504156};
+Dir "a";
+File {name = "f"; size = 29116}; 
+File {name = "g"; size = 2557};
+File {name = "h.lst"; size = 62596}; 
+Dir "e"; 
+File {name = "i"; size = 584};
+Dir ".."; 
+Dir ".."; 
+Dir "d"; 
+File {name = "j"; size = 4060174};
+File {name = "d.log"; size = 8033020};
+File {name = "d.ext"; size = 5626152}; 
+File {name = "k"; size = 7214296}
