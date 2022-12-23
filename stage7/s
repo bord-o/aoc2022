@@ -19,12 +19,12 @@ new hash for root
   add file b to count for root
   add file c to count for root
 
-new hash for a
+new hash for /a
   add file f to count for a, and root
   add file g to count for a, and root
   add file h to count for a, and root
 
-new hash for e
+new hash for /ae
   add file i to count for e, a, and root
 
 double dot, pop e from the add stack

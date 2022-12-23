@@ -1,0 +1,4 @@
+(executable
+ (public_name stage8)
+ (name main)
+ (libraries core))
