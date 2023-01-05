@@ -1,0 +1,6 @@
+(executable
+ (public_name stage9)
+ (name main)
+ (preprocess
+  (pps ppx_deriving.show))
+ (libraries core))

@@ -1,0 +1,2361 @@
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Left'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Up'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Up'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Right'  : dx: 1, dy: 0
+Main.Up'  : dx: 0, dy: 0
+Main.Left'  : dx: 0, dy: -1
+Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Right'  : dx: -1, dy: 0
+Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Down'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Right'  : Main.Up'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Right'  : dx: -1, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Right'  : Main.Left'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Left'  : dx: -1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Left'  : Main.Down'  : dx: 1, dy: -1
+Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Down'  : Main.Right'  : dx: 1, dy: 1
+Main.Left'  : dx: 1, dy: 0
+Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Right'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Left'  : dx: 1, dy: -1
+Main.Left'  : Main.Left'  : Main.Left'  : Main.Left'  : Main.Up'  : dx: -1, dy: -1
+Main.Down'  : dx: 0, dy: -1
+Main.Right'  : dx: 0, dy: 0
+Main.Up'  : dx: -1, dy: 0
+Main.Up'  : Main.Up'  : Main.Up'  : Main.Up'  : Main.Down'  : dx: 0, dy: 0
+Main.Down'  : dx: 1, dy: 0
+Main.Down'  : Main.Down'  : Main.Up'  : dx: 0, dy: 0
+Main.Right'  : dx: 0, dy: 1
+Main.Right'  : Main.Right'  : Main.Right'  : Main.Down'  : dx: 1, dy: 1
+Main.Up'  : dx: 0, dy: 1
+
+3129

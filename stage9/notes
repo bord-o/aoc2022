@@ -1,0 +1,15 @@
+. . . . . .
+. # # # # .
+. # # # # #
+# # # # # #
+. . . . # .
+# # # # # .
+
+mark start square for both head and tail
+
+check if tail x or y components are more than 1 away
+  if both then increment both tail positions an write to tail board
+
+  if one then increment the tail position in the appropriate direction
+
+
